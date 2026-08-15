@@ -1,62 +1,85 @@
 <!-- ============================================= -->
 <!--   README DE PERFIL — JOÃO EMANUEL             -->
-<!--   Designer Gráfico & Dev Front-end            -->
+<!--   Founder & Diretor Criativo · Moove          -->
+<!--   Paleta IDV: Teal #0F6D5C · Amarelo #FFCB47  -->
+<!--   Creme #FDF8DE · Preto #0D0D0D               -->
 <!-- ============================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:38BDF8&height=280&section=header&text=JO%C3%83O%20EMANUEL&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Designer%20Gr%C3%A1fico%20%26%20Desenvolvedor%20Front-end&descAlignY=55&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:0F6D5C,100:0D0D0D&height=260&section=header&text=JO%C3%83O%20EMANUEL&fontSize=64&fontColor=FFCB47&animation=fadeIn&fontAlignY=42&desc=Founder%20%26%20Diretor%20Criativo%20%40%20Moove&descAlignY=60&descSize=20&descColor=FDF8DE" width="100%"/>
 
 <br/>
 
-<!-- 🖼️ IMAGEM 1: coloque aqui sua foto de perfil em formato circular.
-     Sugestão: 400x400px, fundo neutro ou com sua identidade visual.
-     Hospede em imgur.com ou no próprio repo em /assets/avatar.png -->
-<img src="https://raw.githubusercontent.com/designergraficojoaoemanuel-ctrl/designergraficojoaoemanuel-ctrl/main/assets/avatar.png" width="180" style="border-radius: 50%; border: 4px solid #38BDF8;" />
+<!-- 🖼️ AVATAR — use a foto de retrato que você enviou (frontal, fundo neutro).
+     Suba como assets/avatar.png no repositório designergraficojoaoemanuel-ctrl -->
+<img src="https://raw.githubusercontent.com/designergraficojoaoemanuel-ctrl/designergraficojoaoemanuel-ctrl/main/assets/avatar.png" width="170" style="border-radius: 50%; border: 4px solid #FFCB47; object-fit: cover;" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Design+%C3%A9+a+forma%3B+c%C3%B3digo+%C3%A9+a+fun%C3%A7%C3%A3o.;Do+Figma+ao+navegador.;Interfaces+que+comunicam.;HTML+%E2%80%A2+CSS+%E2%80%A2+JS+%E2%80%A2+Figma" alt="Typing SVG" />
+<img src="https://img.shields.io/badge/●_Dispon%C3%ADvel_para_novos_projetos-0F6D5C?style=for-the-badge&logoColor=FDF8DE&labelColor=0D0D0D&color=0F6D5C" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3200&pause=900&color=FFCB47&center=true&vCenter=true&width=680&lines=Ajudo+marcas+a+deixarem+de+parecer+amadoras.;Identidade+visual+%2B+c%C3%B3digo+%3D+profissionalismo.;Do+Figma+ao+navegador%2C+sem+atalhos.;Design+estrat%C3%A9gico%2C+n%C3%A3o+s%C3%B3+bonito." alt="Typing SVG" />
 
 <br/>
 
+<a href="https://wa.me/">
+  <img src="https://img.shields.io/badge/WhatsApp-FFCB47?style=for-the-badge&logo=whatsapp&logoColor=0D0D0D" />
+</a>
 <a href="mailto:designergraficojoaoemanuel@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/E--mail-0F6D5C?style=for-the-badge&logo=gmail&logoColor=FDF8DE" />
 </a>
 <a href="https://www.behance.net/joaoemanueldesigner" target="_blank">
-  <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+  <img src="https://img.shields.io/badge/Behance-0D0D0D?style=for-the-badge&logo=behance&logoColor=FFCB47" />
 </a>
 <a href="https://instagram.com/eujoaodsgn" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=FFCB47" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=designergraficojoaoemanuel-ctrl&style=for-the-badge&color=38BDF8&label=VISITAS+NO+PERFIL" />
+<img src="https://komarev.com/ghpvc/?username=designergraficojoaoemanuel-ctrl&style=for-the-badge&color=0F6D5C&label=VISITAS+NO+PERFIL" />
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+<img src="https://raw.githubusercontent.com/designergraficojoaoemanuel-ctrl/designergraficojoaoemanuel-ctrl/main/assets/divider.svg" width="100%" height="3px"/>
 
-## 🧭 &nbsp;Sobre mim
+<!-- Divisória simples caso o SVG acima não exista ainda: -->
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/img/fluent-emoji_high-contrast_laptop.png">
+## 📟 &nbsp;whoami
 
-- 🎨 &nbsp;Designer gráfico com foco em **identidade visual** e **UI Design**
-- 💻 &nbsp;Desenvolvedor front-end — transformo protótipos em interfaces reais
-- 🧩 &nbsp;Trabalho a ponte entre **design** e **código**
-- 📍 &nbsp;Brasil
-- 🌱 &nbsp;Em evolução constante, testando novas técnicas e ferramentas
-- 🤝 &nbsp;Aberto a colaborações, freelas e novos projetos
-- ⚡ &nbsp;Curiosidade: cada projeto começa no Figma antes de virar uma linha de código
+```bash
+joao@moove:~$ whoami
 
-<br clear="right"/>
+> João Emanuel
+> Web Designer & Front-end Developer
+> Founder & Diretor Criativo — Moove
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+joao@moove:~$ cat missao.txt
 
-## 🛠️ &nbsp;Stack & Ferramentas
+Ajudo empresas a deixarem de parecer amadoras através de
+identidades visuais e sites que transmitem profissionalismo.
+Design estratégico pra marcas que já entregam bem — e
+precisam de uma imagem à altura disso.
+
+joao@moove:~$ cat stack.json
+
+{
+  "design": ["Figma"],
+  "frontend": ["HTML5", "CSS3", "JavaScript"],
+  "foco": "identidade visual → interface → código",
+  "disponivel": true
+}
+```
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+## 🛠️ &nbsp;Stack
 
 <div align="center">
 
@@ -64,106 +87,97 @@
 
 <br/><br/>
 
-| 🎨 Design | 🧱 Estrutura | ⚙️ Interatividade |
-|:---:|:---:|:---:|
-| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| Protótipos & UI | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | Lógica & Interações |
+<img src="https://img.shields.io/badge/Figma-0D0D0D?style=for-the-badge&logo=figma&logoColor=FFCB47" />
+<img src="https://img.shields.io/badge/HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=0F6D5C" />
+<img src="https://img.shields.io/badge/CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=0F6D5C" />
+<img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=FFCB47" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=designergraficojoaoemanuel-ctrl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=designergraficojoaoemanuel-ctrl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=designergraficojoaoemanuel-ctrl&show_icons=true&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=FFCB47&icon_color=0F6D5C&text_color=FDF8DE&border_color=0F6D5C" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=designergraficojoaoemanuel-ctrl&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFCB47&text_color=FDF8DE&border_color=0F6D5C" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=designergraficojoaoemanuel-ctrl&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=designergraficojoaoemanuel-ctrl&hide_border=true&background=0D0D0D&ring=FFCB47&fire=FFCB47&currStreakLabel=FFCB47&sideLabels=FDF8DE&currStreakNum=FDF8DE&sideNums=FDF8DE&dates=FDF8DE&border=0F6D5C" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=designergraficojoaoemanuel-ctrl&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=ffffff" width="100%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=designergraficojoaoemanuel-ctrl&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=designergraficojoaoemanuel-ctrl&bg_color=0D0D0D&color=FFCB47&line=0F6D5C&point=FDF8DE&area=true&area_color=0F6D5C&hide_border=true" width="100%"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-## 🐍 &nbsp;Atividade de contribuições
+## 🐍 &nbsp;Contribuições
 
 <div align="center">
 
-<!-- Esta animação "cobrinha" se gera sozinha via GitHub Action —
-     veja o passo a passo logo abaixo para ativar -->
-<img src="https://raw.githubusercontent.com/designergraficojoaoemanuel-ctrl/designergraficojoaoemanuel-ctrl/output/github-contribution-grid-snake.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/designergraficojoaoemanuel-ctrl/designergraficojoaoemanuel-ctrl/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ## 📂 &nbsp;Projetos em destaque
 
 <div align="center">
 
 <a href="https://github.com/designergraficojoaoemanuel-ctrl/sitejoaoemanueldesigner">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=designergraficojoaoemanuel-ctrl&repo=sitejoaoemanueldesigner&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=designergraficojoaoemanuel-ctrl&repo=sitejoaoemanueldesigner&hide_border=true&bg_color=0D0D0D&title_color=FFCB47&text_color=FDF8DE&icon_color=0F6D5C&border_color=0F6D5C" />
 </a>
 <a href="https://github.com/designergraficojoaoemanuel-ctrl/ecoatitude">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=designergraficojoaoemanuel-ctrl&repo=ecoatitude&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=designergraficojoaoemanuel-ctrl&repo=ecoatitude&hide_border=true&bg_color=0D0D0D&title_color=FFCB47&text_color=FDF8DE&icon_color=0F6D5C&border_color=0F6D5C" />
 </a>
 
 <br/>
 
 <a href="https://github.com/designergraficojoaoemanuel-ctrl/jacquedsgn">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=designergraficojoaoemanuel-ctrl&repo=jacquedsgn&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=designergraficojoaoemanuel-ctrl&repo=jacquedsgn&hide_border=true&bg_color=0D0D0D&title_color=FFCB47&text_color=FDF8DE&icon_color=0F6D5C&border_color=0F6D5C" />
 </a>
 <a href="https://github.com/designergraficojoaoemanuel-ctrl/mooveagc">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=designergraficojoaoemanuel-ctrl&repo=mooveagc&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=designergraficojoaoemanuel-ctrl&repo=mooveagc&hide_border=true&bg_color=0D0D0D&title_color=FFCB47&text_color=FDF8DE&icon_color=0F6D5C&border_color=0F6D5C" />
 </a>
 
 </div>
 
-<!-- 🖼️ IMAGEM 2 (opcional, mas recomendado): logo abaixo de cada projeto
-     no README individual do repositório, coloque um screenshot ou GIF
-     do resultado final. Isso é o que mais chama atenção em perfil de
-     designer — veja instruções no final desta mensagem. -->
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
-
-## 💬 &nbsp;Frase que me guia
+## 💬 &nbsp;
 
 <div align="center">
 
-> *"Design não é só como parece. Design é como funciona."*
-> — Steve Jobs
+> *"Sua entrega é excelente. Por que sua marca ainda transmite improviso?"*
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 <div align="center">
 
-### 📫 &nbsp;Vamos criar algo juntos?
+### 📫 &nbsp;Vamos conversar sobre seu projeto?
 
+<a href="https://wa.me/">
+  <img src="https://img.shields.io/badge/WhatsApp-FFCB47?style=for-the-badge&logo=whatsapp&logoColor=0D0D0D" />
+</a>
 <a href="mailto:designergraficojoaoemanuel@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/E--mail-0F6D5C?style=for-the-badge&logo=gmail&logoColor=FDF8DE" />
 </a>
 <a href="https://www.behance.net/joaoemanueldesigner" target="_blank">
-  <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+  <img src="https://img.shields.io/badge/Behance-0D0D0D?style=for-the-badge&logo=behance&logoColor=FFCB47" />
 </a>
 <a href="https://instagram.com/eujoaodsgn" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=FFCB47" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1E3A8A,100:0F172A&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:0F6D5C,100:0D0D0D&height=120&section=footer" width="100%"/>
 
 </div>
