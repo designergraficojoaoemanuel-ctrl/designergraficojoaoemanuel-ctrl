@@ -11,12 +11,6 @@
 
 <br/>
 
-<!-- 🖼️ AVATAR — use a foto de retrato que você enviou (frontal, fundo neutro).
-     Suba como assets/avatar.png no repositório designergraficojoaoemanuel-ctrl -->
-<img src="https://raw.githubusercontent.com/designergraficojoaoemanuel-ctrl/designergraficojoaoemanuel-ctrl/main/assets/avatar.png" width="170" style="border-radius: 50%; border: 4px solid #FFCB47; object-fit: cover;" />
-
-<br/><br/>
-
 <img src="https://img.shields.io/badge/●_Dispon%C3%ADvel_para_novos_projetos-0F6D5C?style=for-the-badge&logoColor=FDF8DE&labelColor=0D0D0D&color=0F6D5C" />
 
 <br/><br/>
@@ -129,21 +123,60 @@ joao@moove:~$ cat stack.json
 
 <div align="center">
 
-<a href="https://github.com/designergraficojoaoemanuel-ctrl/sitejoaoemanueldesigner">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=designergraficojoaoemanuel-ctrl&repo=sitejoaoemanueldesigner&hide_border=true&bg_color=0D0D0D&title_color=FFCB47&text_color=FDF8DE&icon_color=0F6D5C&border_color=0F6D5C" />
-</a>
-<a href="https://github.com/designergraficojoaoemanuel-ctrl/ecoatitude">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=designergraficojoaoemanuel-ctrl&repo=ecoatitude&hide_border=true&bg_color=0D0D0D&title_color=FFCB47&text_color=FDF8DE&icon_color=0F6D5C&border_color=0F6D5C" />
-</a>
-
-<br/>
-
-<a href="https://github.com/designergraficojoaoemanuel-ctrl/jacquedsgn">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=designergraficojoaoemanuel-ctrl&repo=jacquedsgn&hide_border=true&bg_color=0D0D0D&title_color=FFCB47&text_color=FDF8DE&icon_color=0F6D5C&border_color=0F6D5C" />
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
 <a href="https://github.com/designergraficojoaoemanuel-ctrl/mooveagc">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=designergraficojoaoemanuel-ctrl&repo=mooveagc&hide_border=true&bg_color=0D0D0D&title_color=FFCB47&text_color=FDF8DE&icon_color=0F6D5C&border_color=0F6D5C" />
+<img src="https://raw.githubusercontent.com/designergraficojoaoemanuel-ctrl/designergraficojoaoemanuel-ctrl/main/assets/projeto-moove.jpg" width="100%" style="border-radius: 10px; border: 1px solid #0F6D5C;" />
 </a>
+<br/><br/>
+<b>🌀 Moove</b><br/>
+<sub>Agência de identidade visual e estratégia de marca — site institucional.</sub>
+<br/><br/>
+<a href="https://github.com/designergraficojoaoemanuel-ctrl/mooveagc">
+<img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-0D0D0D?style=for-the-badge&logoColor=FFCB47&color=0D0D0D" />
+</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/designergraficojoaoemanuel-ctrl/jacquedsgn">
+<img src="https://raw.githubusercontent.com/designergraficojoaoemanuel-ctrl/designergraficojoaoemanuel-ctrl/main/assets/projeto-jacque.jpg" width="100%" style="border-radius: 10px; border: 1px solid #0F6D5C;" />
+</a>
+<br/><br/>
+<b>💜 Jacque Designer</b><br/>
+<sub>Landing page de portfólio e identidade visual pessoal.</sub>
+<br/><br/>
+<a href="https://github.com/designergraficojoaoemanuel-ctrl/jacquedsgn">
+<img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-0D0D0D?style=for-the-badge&logoColor=FFCB47&color=0D0D0D" />
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/designergraficojoaoemanuel-ctrl/ecoatitude">
+<img src="https://raw.githubusercontent.com/designergraficojoaoemanuel-ctrl/designergraficojoaoemanuel-ctrl/main/assets/projeto-eco.jpg" width="100%" style="border-radius: 10px; border: 1px solid #0F6D5C;" />
+</a>
+<br/><br/>
+<b>♻️ ECOAtitude</b><br/>
+<sub>Site de projeto estudantil de consumo consciente — Formoso/GO.</sub>
+<br/><br/>
+<a href="https://github.com/designergraficojoaoemanuel-ctrl/ecoatitude">
+<img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-0D0D0D?style=for-the-badge&logoColor=FFCB47&color=0D0D0D" />
+</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/designergraficojoaoemanuel-ctrl/sitejoaoemanueldesigner">
+<img src="https://raw.githubusercontent.com/designergraficojoaoemanuel-ctrl/designergraficojoaoemanuel-ctrl/main/assets/projeto-joao.jpg" width="100%" style="border-radius: 10px; border: 1px solid #0F6D5C;" />
+</a>
+<br/><br/>
+<b>🔗 Link-in-bio pessoal</b><br/>
+<sub>Página de contato e atalhos — WhatsApp, portfólio e redes.</sub>
+<br/><br/>
+<a href="https://github.com/designergraficojoaoemanuel-ctrl/sitejoaoemanueldesigner">
+<img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-0D0D0D?style=for-the-badge&logoColor=FFCB47&color=0D0D0D" />
+</a>
+</td>
+</tr>
+</table>
 
 </div>
 
