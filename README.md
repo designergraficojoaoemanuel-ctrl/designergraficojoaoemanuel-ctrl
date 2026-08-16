@@ -201,13 +201,13 @@ learning:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=eujoaodsgn&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF&rank_icon=github&include_all_commits=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=eujoaodsgn&show_icons=true&hide_border=true&bg_color=transparent&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF&rank_icon=github&include_all_commits=true" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eujoaodsgn&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=C9D1D9&langs_count=6" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eujoaodsgn&layout=compact&hide_border=true&bg_color=transparent&title_color=FFFFFF&text_color=C9D1D9&langs_count=6" height="165" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=eujoaodsgn&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=C9D1D9&dates=C9D1D9" width="70%" />
+<img src="https://streak-stats.demolab.com?user=eujoaodsgn&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=C9D1D9&dates=C9D1D9" width="70%" />
 
 </div>
 
@@ -217,7 +217,7 @@ learning:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eujoaodsgn&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eujoaodsgn&bg_color=transparent&color=C9D1D9&line=FFFFFF&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true" width="100%" />
 
 </div>
 
