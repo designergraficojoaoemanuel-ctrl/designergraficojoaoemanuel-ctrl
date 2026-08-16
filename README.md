@@ -1,42 +1,41 @@
 <div align="center">
 
 # João Emanuel
-### `Creative Developer · Front-end · Vibe Coder`
 
-<a href="https://github.com/designergraficojoaoemanuel-ctrl">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:designergraficojoaoemanuel@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.behance.net/joaoemanueldesigner">
-  <img src="https://img.shields.io/badge/Behance-0D1117?style=for-the-badge&logo=behance&logoColor=white" />
-</a>
-<a href="https://instagram.com/eujoaodsgn">
-  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+### `Creative Developer · Designer · Front-end`
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1100&color=58A6FF&center=true&vCenter=true&width=700&lines=Design+%E2%86%92+Code+%E2%86%92+Experience;Front-end+that+looks+as+good+as+it+works;Building+with+AI%2C+code+and+a+lot+of+curiosity;Vibe+coding+%E2%9A%A1+%7C+Creative+development" alt="Typing animation" />
+Designing interfaces. Building digital experiences.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=100&section=header" width="100%" />
+<a href="https://github.com/designergraficojoaoemanuel-ctrl">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:designergraficojoaoemanuel@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.behance.net/joaoemanueldesigner">
+  <img src="https://img.shields.io/badge/Behance-0D1117?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+</a>
+<a href="https://instagram.com/eujoaodsgn">
+  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 
 </div>
 
-## `> whoami`
+---
 
-Sou **Designer + Front-end Developer** e atuo na interseção entre **design, tecnologia e inteligência artificial**.
+## 👋 About
 
-Transformo ideias em experiências digitais — de landing pages e sites institucionais a interfaces modernas construídas com **vibe coding** e ferramentas de IA.
+I'm **João**, a designer and creative developer focused on building digital experiences where **design, code and AI work together**.
 
-> **Meu objetivo:** criar produtos que sejam bonitos, rápidos, funcionais e fáceis de lembrar.
+I work across **visual identity, UI design, front-end development and interactive web experiences**.
+
+I like taking an idea from a blank canvas to something people can actually use.
 
 ---
 
-## ⚡ O que eu faço
+## ⚡ What I do
 
 <table>
 <tr>
@@ -44,24 +43,27 @@ Transformo ideias em experiências digitais — de landing pages e sites institu
 
 ### 🎨 Design
 
-UI/UX · Figma · Branding  
-Design systems · Direção visual
+UI Design · Branding  
+Visual systems · Art direction  
+Figma · Photoshop · Illustrator
 
 </td>
 <td width="33%" align="center">
 
-### 💻 Front-end
+### 💻 Development
 
 HTML · CSS · JavaScript  
-Interfaces responsivas · Landing pages
+TypeScript · React · Next.js  
+Responsive web experiences
 
 </td>
 <td width="33%" align="center">
 
-### 🤖 Vibe Code
+### 🤖 Creative Tech
 
-IA + desenvolvimento  
-Prototipação rápida · Automação
+AI-assisted development  
+Rapid prototyping · Automation  
+Creative coding · Vibe coding
 
 </td>
 </tr>
@@ -69,103 +71,105 @@ Prototipação rápida · Automação
 
 ---
 
-## 🧰 Stack & ferramentas
+## 🧰 Stack
+
+### Design
+
+`Figma` `Photoshop` `Illustrator` `Affinity`
+
+### Front-end
+
+`HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Tailwind`
+
+### Tools
+
+`Git` `GitHub` `VS Code` `Vercel`
+
+### AI
+
+`AI-assisted development` `Vibe coding` `Automation`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,figma,vscode&perline=11" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-`HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Tailwind` `Git` `GitHub` `Figma` `AI Tools`
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,figma,vscode&perline=11" alt="Tech stack" />
 
 </div>
 
 ---
 
-## 🧠 Como eu penso
+## 🚀 Selected work
+
+I build websites, interfaces, digital products and visual systems with a strong focus on **design, usability and execution**.
+
+### 🌐 Web & Digital Experiences
+
+Responsive websites, landing pages and digital interfaces designed to look good and work even better.
+
+### 🎨 Branding & Visual Systems
+
+Visual identities, UI systems and creative direction built to stay consistent across different touchpoints.
+
+### 🤖 Creative Development
+
+Experiments and real projects combining code, AI and design to turn ideas into working products.
+
+> **See my pinned repositories below for the projects I want to put front and center.**
+
+---
+
+## 🧠 How I work
 
 ```text
-IDEIA
+IDEA
   ↓
 DESIGN
   ↓
-PROTÓTIPO
+PROTOTYPE
   ↓
-VIBE CODE ⚡
+CODE
   ↓
-DESENVOLVIMENTO
+POLISH
   ↓
-POLIMENTO
-  ↓
-🚀 LANÇAMENTO
+SHIP
 ```
 
-Não gosto de separar **design** de **código**. Acredito que os melhores resultados aparecem quando os dois trabalham juntos desde o início.
+I don't see **design** and **development** as separate worlds.
+
+The best work happens when both are considered from the beginning.
 
 ---
 
-## 🚀 Projetos
+## 📌 Currently
 
-<div align="center">
-
-| Projeto | O que tem de interessante |
-|:---|:---|
-| 🌐 **Web Experiences** | Sites e landing pages focados em conversão e experiência |
-| ⚡ **Vibe Coding** | Projetos desenvolvidos com IA para acelerar ideias até o produto |
-| 🎨 **Creative Projects** | Interfaces, identidades e experiências digitais |
-
-</div>
-
-> 💡 **Dica:** fixe aqui seus 3 melhores repositórios para transformar este perfil em um verdadeiro portfólio técnico.
+- Building digital products and web experiences
+- Exploring better ways to combine design, code and AI
+- Improving my front-end and product development skills
+- Turning ideas into real, usable interfaces
 
 ---
 
-## 📈 GitHub
+## 💬 A little more about me
 
-<div align="center">
+I'm interested in the space between **creative direction and technology**.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=designergraficojoaoemanuel-ctrl&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=designergraficojoaoemanuel-ctrl&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+I care about how a product works, but also about how it feels to use.
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=designergraficojoaoemanuel-ctrl&theme=github-dark-blue&hide_border=true&background=0D1117" />
-
-</div>
-
----
-
-## 🐍 Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/designergraficojoaoemanuel-ctrl/designergraficojoaoemanuel-ctrl/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
-
-</div>
+That means I can move from a visual identity or interface in Figma to a working front-end without treating those as completely different jobs.
 
 ---
 
 <div align="center">
 
-### `while(alive) { build(); learn(); repeat(); }`
-
-<br/>
-
-**Designing interfaces. Writing code. Building things.**
+### `Design it. Build it. Make it work.`
 
 <br/>
 
 <a href="mailto:designergraficojoaoemanuel@gmail.com">
-  <img src="https://img.shields.io/badge/Vamos%20criar%20algo%20incr%C3%ADvel%3F-58A6FF?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Let's%20work%20together-58A6FF?style=for-the-badge&logo=maildotru&logoColor=white" alt="Let's work together" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=100&section=footer" width="100%" />
+<sub>Built with design, code and a bit of obsession over the details.</sub>
 
 </div>
