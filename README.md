@@ -1,23 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:FFFFFF&height=180&section=header&text=João%20Emanuel&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Creative%20Developer%20%7C%20Designer%20%7C%20Front-end&descSize=16&descAlignY=55&animation=fadeIn" width="100%" />
+```
+╔══════════════════════════════════════════════════════╗
+║  SYSTEM BOOT...........................[ OK ]         ║
+║  LOADING MODULES: design, code, ai.....[ OK ]         ║
+║  USER: eujoaodsgn                                     ║
+║  ROLE: designer / creative developer                  ║
+║  ACCESS: granted                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=root%40eujoaodsgn%3A~%23+whoami;%3E+Jo%C3%A3o+Emanuel;%3E+Designer+%2B+Developer+%2B+AI-assisted+Builder;%3E+status%3A+online_" />
+
+<br/>
 
 <a href="https://github.com/eujoaodsgn">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=00FF41&labelColor=000000" />
 </a>
 <a href="mailto:designergraficojoaoemanuel@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=00FF41&labelColor=000000" />
 </a>
 <a href="https://www.behance.net/joaoemanueldesigner">
-  <img src="https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logoColor=white" />
+  <img src="https://img.shields.io/badge/BEHANCE-000000?style=flat-square&logo=behance&logoColor=00FF41&labelColor=000000" />
 </a>
 <a href="https://instagram.com/eujoaodsgn">
-  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=flat-square&logo=instagram&logoColor=00FF41&labelColor=000000" />
 </a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&lines=%3E+Designing+interfaces...;%3E+Building+digital+experiences...;%3E+Turning+ideas+into+working+products...;%3E+Design+%2B+Code+%2B+AI._" />
 
 </div>
 
@@ -26,7 +34,7 @@
 ## `> whoami`
 
 ```text
-joao@eujoaodsgn:~$ whoami
+root@eujoaodsgn:~# whoami
 
 João Emanuel
 ├── Designer
@@ -34,13 +42,15 @@ João Emanuel
 ├── Front-end Developer
 └── AI-assisted Builder
 
-joao@eujoaodsgn:~$ cat about.md
+root@eujoaodsgn:~# cat about.md
 
 > I design interfaces, build digital experiences
 > and experiment with the space between design and code.
 
-joao@eujoaodsgn:~$ uname -a
-eujoaodsgn v2.0 x86_64 GNU/Design+Code
+root@eujoaodsgn:~# uname -a
+eujoaodsgn v2.0 x86_64 GNU/Design+Code [encrypted]
+
+root@eujoaodsgn:~# _
 ```
 
 I work across **visual identity, UI design, front-end development and interactive web experiences**.
@@ -101,13 +111,20 @@ I like taking an idea from a blank canvas and turning it into something people c
 </div>
 
 ```bash
-$ npm list --depth=0 --skills
+root@eujoaodsgn:~# npm list --depth=0 --skills
 
 eujoaodsgn@2.0.0
 ├── design-thinking@latest
 ├── frontend-craft@latest
 ├── ai-assisted-dev@latest
 └── attention-to-detail@∞
+
+root@eujoaodsgn:~# nmap -sV skills.local
+
+PORT     STATE  SERVICE
+1337/tcp open   design-engine
+8080/tcp open   frontend-server
+4444/tcp open   ai-pipeline
 ```
 
 ---
@@ -172,14 +189,16 @@ Small projects where I test new tools, interactions, interfaces and ideas.
 
 ```bash
 #!/bin/bash
+# execute on every new project
 
 run_workflow() {
-  echo "IDEA"      && sleep 1
-  echo "  -> DESIGN"
-  echo "    -> PROTOTYPE"
-  echo "      -> CODE"
-  echo "        -> POLISH"
-  echo "          -> SHIP"
+  echo "[+] IDEA"        && sleep 1
+  echo "[+]   -> DESIGN"
+  echo "[+]     -> PROTOTYPE"
+  echo "[+]       -> CODE"
+  echo "[+]         -> POLISH"
+  echo "[+]           -> SHIP"
+  echo "[✓] process complete. 0 errors."
 }
 
 run_workflow
@@ -203,6 +222,7 @@ The tiny details matter too.
 ```yaml
 status: building
 uptime: 24/7
+connection: encrypted
 focus:
   - digital products
   - front-end development
@@ -215,6 +235,7 @@ learning:
 current_process:
   pid: 1337
   cpu: 98%
+  mem: 512MB / ∞
   task: "shipping something new"
 ```
 
@@ -224,7 +245,7 @@ current_process:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eujoaodsgn&bg_color=transparent&color=C9D1D9&line=FFFFFF&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eujoaodsgn&bg_color=transparent&color=00FF41&line=00FF41&point=FFFFFF&area_color=00FF41&area=true&hide_border=true" width="100%" />
 
 </div>
 
@@ -233,29 +254,32 @@ current_process:
 ## `💻 terminal`
 
 ```bash
-$ whoami
+root@eujoaodsgn:~# whoami
 eujoaodsgn
 
-$ cat interests.txt
+root@eujoaodsgn:~# cat interests.txt
 design
 frontend
 branding
 creative-development
 artificial-intelligence
 
-$ git log --oneline -5
+root@eujoaodsgn:~# git log --oneline -5
 a1b2c3d feat: new landing page
 e4f5g6h fix: responsive breakpoints
 h7i8j9k style: refine design system
 k1l2m3n feat: AI-assisted prototype
 n4o5p6q chore: polish micro-interactions
 
-$ git status
+root@eujoaodsgn:~# git status
 On branch main
 Your branch is up to date.
+nothing to commit, working tree clean
 
-$ echo "Let's build something."
+root@eujoaodsgn:~# echo "Let's build something."
 Let's build something.
+
+root@eujoaodsgn:~# _
 ```
 
 ---
@@ -266,16 +290,20 @@ Let's build something.
 
 <br/><br/>
 
+```
+[ CONNECTION SECURE ]  [ SESSION ACTIVE ]  [ READY TO BUILD ]
+```
+
 ### `Design it. Build it. Make it work.`
 
 <br/>
 
 <a href="mailto:designergraficojoaoemanuel@gmail.com">
-  <img src="https://img.shields.io/badge/Let's%20build%20something-000000?style=for-the-badge&logo=maildotru&logoColor=white" />
+  <img src="https://img.shields.io/badge/LET'S%20BUILD%20SOMETHING-000000?style=flat-square&logo=maildotru&logoColor=00FF41&labelColor=000000" />
 </a>
 
 <br/><br/>
 
-<sub>Built with design, code and an unreasonable amount of attention to detail.</sub>
+<sub>root@eujoaodsgn:~# built with design, code and an unreasonable amount of attention to detail.</sub>
 
 </div>
