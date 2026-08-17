@@ -1,30 +1,22 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║  SYSTEM BOOT...........................[ OK ]         ║
-║  LOADING MODULES: design, code, ai.....[ OK ]         ║
-║  USER: eujoaodsgn                                     ║
-║  ROLE: designer / creative developer                  ║
-║  ACCESS: granted                                      ║
-╚══════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1E1E,50:252526,100:007ACC&height=180&section=header&text=João%20Emanuel&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Creative%20Developer%20%7C%20Designer%20%7C%20Front-end&descSize=16&descAlignY=55&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=root%40eujoaodsgn%3A~%23+whoami;%3E+Jo%C3%A3o+Emanuel;%3E+Designer+%2B+Developer+%2B+AI-assisted+Builder;%3E+status%3A+online_" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=569CD6&center=true&vCenter=true&width=700&lines=const+dev+%3D+%22Jo%C3%A3o+Emanuel%22%3B;%2F%2F+Designer+%2B+Developer+%2B+AI-assisted+Builder;function+build()+%7B+return+%22something+great%22%3B+%7D;status%3A+%22online%22_" />
 
 <br/>
 
 <a href="https://github.com/eujoaodsgn">
-  <img src="https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=00FF41&labelColor=000000" />
+  <img src="https://img.shields.io/badge/GITHUB-1E1E1E?style=flat-square&logo=github&logoColor=007ACC&labelColor=1E1E1E" />
 </a>
 <a href="mailto:designergraficojoaoemanuel@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=00FF41&labelColor=000000" />
+  <img src="https://img.shields.io/badge/EMAIL-1E1E1E?style=flat-square&logo=gmail&logoColor=007ACC&labelColor=1E1E1E" />
 </a>
 <a href="https://www.behance.net/joaoemanueldesigner">
-  <img src="https://img.shields.io/badge/BEHANCE-000000?style=flat-square&logo=behance&logoColor=00FF41&labelColor=000000" />
+  <img src="https://img.shields.io/badge/BEHANCE-1E1E1E?style=flat-square&logo=behance&logoColor=007ACC&labelColor=1E1E1E" />
 </a>
 <a href="https://instagram.com/eujoaodsgn">
-  <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=flat-square&logo=instagram&logoColor=00FF41&labelColor=000000" />
+  <img src="https://img.shields.io/badge/INSTAGRAM-1E1E1E?style=flat-square&logo=instagram&logoColor=007ACC&labelColor=1E1E1E" />
 </a>
 
 </div>
@@ -48,7 +40,7 @@ root@eujoaodsgn:~# cat about.md
 > and experiment with the space between design and code.
 
 root@eujoaodsgn:~# uname -a
-eujoaodsgn v2.0 x86_64 GNU/Design+Code [encrypted]
+eujoaodsgn v2.0 x86_64 GNU/Design+Code
 
 root@eujoaodsgn:~# _
 ```
@@ -118,13 +110,6 @@ eujoaodsgn@2.0.0
 ├── frontend-craft@latest
 ├── ai-assisted-dev@latest
 └── attention-to-detail@∞
-
-root@eujoaodsgn:~# nmap -sV skills.local
-
-PORT     STATE  SERVICE
-1337/tcp open   design-engine
-8080/tcp open   frontend-server
-4444/tcp open   ai-pipeline
 ```
 
 ---
@@ -222,7 +207,6 @@ The tiny details matter too.
 ```yaml
 status: building
 uptime: 24/7
-connection: encrypted
 focus:
   - digital products
   - front-end development
@@ -235,7 +219,6 @@ learning:
 current_process:
   pid: 1337
   cpu: 98%
-  mem: 512MB / ∞
   task: "shipping something new"
 ```
 
@@ -245,7 +228,7 @@ current_process:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eujoaodsgn&bg_color=transparent&color=00FF41&line=00FF41&point=FFFFFF&area_color=00FF41&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eujoaodsgn&bg_color=transparent&color=007ACC&line=007ACC&point=FFFFFF&area_color=007ACC&area=true&hide_border=true" width="100%" />
 
 </div>
 
@@ -290,16 +273,12 @@ root@eujoaodsgn:~# _
 
 <br/><br/>
 
-```
-[ CONNECTION SECURE ]  [ SESSION ACTIVE ]  [ READY TO BUILD ]
-```
-
 ### `Design it. Build it. Make it work.`
 
 <br/>
 
 <a href="mailto:designergraficojoaoemanuel@gmail.com">
-  <img src="https://img.shields.io/badge/LET'S%20BUILD%20SOMETHING-000000?style=flat-square&logo=maildotru&logoColor=00FF41&labelColor=000000" />
+  <img src="https://img.shields.io/badge/LET'S%20BUILD%20SOMETHING-1E1E1E?style=flat-square&logo=maildotru&logoColor=007ACC&labelColor=1E1E1E" />
 </a>
 
 <br/><br/>
