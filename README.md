@@ -201,7 +201,7 @@ learning:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=eujoaodsgn&show_icons=true&hide_border=true&bg_color=transparent&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF&rank_icon=github&include_all_commits=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=eujoaodsgn&show_icons=true&hide_border=true&bg_color=transparent&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF&rank_icon=github" height="165" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eujoaodsgn&layout=compact&hide_border=true&bg_color=transparent&title_color=FFFFFF&text_color=C9D1D9&langs_count=6" height="165" />
 
