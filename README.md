@@ -38,6 +38,9 @@ joao@eujoaodsgn:~$ cat about.md
 
 > I design interfaces, build digital experiences
 > and experiment with the space between design and code.
+
+joao@eujoaodsgn:~$ uname -a
+eujoaodsgn v2.0 x86_64 GNU/Design+Code
 ```
 
 I work across **visual identity, UI design, front-end development and interactive web experiences**.
@@ -96,6 +99,16 @@ I like taking an idea from a blank canvas and turning it into something people c
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark&perline=8" />
 
 </div>
+
+```bash
+$ npm list --depth=0 --skills
+
+eujoaodsgn@2.0.0
+├── design-thinking@latest
+├── frontend-craft@latest
+├── ai-assisted-dev@latest
+└── attention-to-detail@∞
+```
 
 ---
 
@@ -172,6 +185,11 @@ run_workflow() {
 run_workflow
 ```
 
+```diff
+- design and development as separate jobs
++ one continuous process, end to end
+```
+
 I don't treat design and development as separate jobs.
 
 The interface matters.  
@@ -184,6 +202,7 @@ The tiny details matter too.
 
 ```yaml
 status: building
+uptime: 24/7
 focus:
   - digital products
   - front-end development
@@ -193,23 +212,11 @@ learning:
   - better product thinking
   - advanced front-end
   - creative coding
+current_process:
+  pid: 1337
+  cpu: 98%
+  task: "shipping something new"
 ```
-
----
-
-## `📊 github --stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=eujoaodsgn&show_icons=true&hide_border=true&bg_color=transparent&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF&rank_icon=github" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eujoaodsgn&layout=compact&hide_border=true&bg_color=transparent&title_color=FFFFFF&text_color=C9D1D9&langs_count=6" height="165" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=eujoaodsgn&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=C9D1D9&dates=C9D1D9" width="70%" />
-
-</div>
 
 ---
 
@@ -235,6 +242,13 @@ frontend
 branding
 creative-development
 artificial-intelligence
+
+$ git log --oneline -5
+a1b2c3d feat: new landing page
+e4f5g6h fix: responsive breakpoints
+h7i8j9k style: refine design system
+k1l2m3n feat: AI-assisted prototype
+n4o5p6q chore: polish micro-interactions
 
 $ git status
 On branch main
